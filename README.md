@@ -7,7 +7,7 @@ This repository contains the official implementation of the neural network simul
 
 Experiments are implemented in python using [pytorch](https://pytorch.org/) for neural network simulations.
 
-To install all requirements run
+To install all required libaries run
 
 ```setup
 pip3 install -r requirements.txt
