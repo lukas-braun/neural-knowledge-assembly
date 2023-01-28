@@ -1,2 +1,22 @@
-# neural-knowledge-assembly
-Official implementation of the neural network simulations of the 2023 Neuron paper "Neural knowledge assembly in humans and neural networks" 
+# Neural knowledge assembly in humans and neural networks
+
+This repository contains the official implementation of the [Neuron](https://www.cell.com/neuron/home) paper "Neural knowledge assembly in humans and neural networks".
+
+
+## Requirements
+
+Experiments are implemented in python using [pytorch](https://pytorch.org/) for neural network simulations.
+
+To install all requirements, run
+
+```setup
+pip3 install -r requirements.txt
+```
+
+## Replicating results
+
+In order to replicate the experiments and corresponding figures, use the ipython notebooks:
+- neural-network-assembly.ipynb,
+- remerge.ipynb,
+- replay.ipynb.
+
